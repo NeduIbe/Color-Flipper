@@ -4,7 +4,7 @@ Changing a background color through the click of a button with &lt; HTML, CSS an
 STEPS:
 How to create a Color Flipper
 Key concepts covered:
-arrays,
+- arrays;
 - document.getElementById();
 - document.querySelector();
 - addEventListener();
